@@ -1,0 +1,8 @@
+# Ignore large video files
+runs/detect/exp8/20230209_124825.mp4
+runs/detect/exp10/video.mp4
+runs/detect/exp6/vlc-record-2023-03-01-11h00m25s-20230209_124825.mp4-.mp4
+
+# Ignore large model file
+crowdhuman_yolov5m.pt
+ 
